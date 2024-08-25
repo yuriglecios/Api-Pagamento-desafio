@@ -12,6 +12,8 @@ Para o desenvolvimento dessa api foi utilizado as seguintes tecnologias:
 - Lombook
 - H2
 - Swagger
+- Junit5
+- Mockito
 
 ---
 
